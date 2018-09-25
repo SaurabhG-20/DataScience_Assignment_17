@@ -8,3 +8,5 @@ Problem Statement 2: In one state, 52% of the voters are Republicans, and 48% ar
 Problem Statement 3: You take the SAT and score 1100. The mean score for the SAT is 1026 and the standard deviation is 209. How well did you score on the test compared to the average test taker?
 
 # Note
+1. Please refer Screenshot directory for output of Screenshot 
+2. Please refer Sourcecode directory for Pyhton Sourcecode file
